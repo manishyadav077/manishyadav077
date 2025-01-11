@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Manish Yadav! 👨‍💻</h1>
 
-<p align="center">Looking for someone to turn your idea into a sleek, functional app? Need a solution to your tech challenges? You're in the right place! Whether it’s a snappy frontend, a robust backend, or just solving that one bug that’s been driving you crazy, I’m here to help.</p>
+<p align="center">With over 3 years of experience as a Software Engineer, I understand the challenges businesses face in the digital world. My expertise in modern technology enables me to provide tailored solutions that address your specific needs. I know exactly what it takes to transform your ideas into seamless, high-performing web applications that solve real-world problems</p>
 
-<p>Let’s chat! I’ve got the expertise in <strong>React.js</strong>, <strong>Node.js</strong>, <strong>MERN stack</strong>, and more to create a solution tailored just for you. If you’re tired of searching for the right person, consider this your lucky day — I’m exactly who you’re looking for. 💡</p>
-
-<p align="center">I bring a solid blend of frontend and backend skills to the table. Need a responsive, engaging UI? I’ll build it with **React.js**, **Tailwind CSS**, and **MUI** to keep users coming back for more. Need a backend that can handle complex operations seamlessly? I’ve got you covered with **Node.js**, **Express.js**, and **MongoDB**, ensuring performance and scalability. I’m all about problem-solving, whether it’s a tricky bug or optimizing your app for maximum efficiency. My mission? To make sure everything works flawlessly so you can focus on what matters most — growing your business. 🚀</p>
+<h3 align="center">I am looking for a complex engineering problem to solve!!!</h1>
 
 <p align="center">Got a project or challenge? Let’s connect! I’ll bring the right solution to the table, and we’ll make it happen. 🚀</p>
 
