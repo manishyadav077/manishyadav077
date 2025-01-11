@@ -1,26 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Manish Yadav! 👨‍💻</h1>
-<h3 align="center">A full-stack wizard (well, almost!) from Kathmandu, Nepal, who loves turning tea into code. With a solid grasp of both frontend and backend technologies, I’ve been busy crafting user-friendly experiences using React.js, Next.js, and Node.js — plus a dash of MongoDB magic. My passion? Building apps that actually work (and look pretty while doing it). 😎</h3>
 
-<p align="center">Looking for someone to turn your idea into a sleek, functional app? Need a solution to your tech challenges? You're in the right place! Whether it’s a snappy frontend, a robust backend, or just solving that one bug that’s been driving you crazy, I’m here to help. 🚀</p>
+<p align="center">Looking for someone to turn your idea into a sleek, functional app? Need a solution to your tech challenges? You're in the right place! Whether it’s a snappy frontend, a robust backend, or just solving that one bug that’s been driving you crazy, I’m here to help.</p>
 
 <p>Let’s chat! I’ve got the expertise in <strong>React.js</strong>, <strong>Node.js</strong>, <strong>MERN stack</strong>, and more to create a solution tailored just for you. If you’re tired of searching for the right person, consider this your lucky day — I’m exactly who you’re looking for. 💡</p>
 
-<h4 align="center">Here’s what I can do for you:</h4>
-
-- **Frontend Magic:** Need a responsive and user-friendly design? I’ll craft it using **React.js**, **Next.js**, and **Tailwind CSS** to make sure your users have a seamless experience.
-- **Backend Power:** Got data? I’ve got **Node.js**, **Express.js**, and **MongoDB** to ensure your app runs smoothly and scales easily.
-- **Problem Solver:** Stuck on a bug? Can’t get your API to work? I’ll troubleshoot, fix it, and make sure your app is running like a charm.
-
-<h4 align="center">What I’ve Done:</h4>
-
-- Helped build **PeppyPick**, improving user engagement by 60%. 🚀
-- Developed full-stack apps from scratch with the **MERN** stack. 🖥️
-- Mentored a team to integrate APIs and enhance app performance. 💪
+<p align="center">I bring a solid blend of frontend and backend skills to the table. Need a responsive, engaging UI? I’ll build it with **React.js**, **Tailwind CSS**, and **MUI** to keep users coming back for more. Need a backend that can handle complex operations seamlessly? I’ve got you covered with **Node.js**, **Express.js**, and **MongoDB**, ensuring performance and scalability. I’m all about problem-solving, whether it’s a tricky bug or optimizing your app for maximum efficiency. My mission? To make sure everything works flawlessly so you can focus on what matters most — growing your business. 🚀</p>
 
 <p align="center">Got a project or challenge? Let’s connect! I’ll bring the right solution to the table, and we’ll make it happen. 🚀</p>
 
 <p align="center">Feel free to check out my projects or drop me a message — I'm excited to collaborate with you! 😄</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishyadav077&label=Profile%20views&color=0e75b6&style=flat" alt="manishyadav077" /> </p>
 
