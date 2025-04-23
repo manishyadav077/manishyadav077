@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Manish Yadav! 👨‍💻</h1>
 
-<p align="center">With over 3 years of experience as a Software Engineer, I understand the challenges businesses face in the digital world. My expertise in modern technology enables me to provide tailored solutions that address your specific needs. I know exactly what it takes to transform your ideas into seamless, high-performing web applications that solve real-world problems</p>
+<p align="center">With solid experience as a Software Engineer, I understand the challenges businesses face in today’s digital landscape. My expertise in modern technologies allows me to craft tailored solutions that meet unique needs. I know what it takes to turn ideas into seamless, high-performing web applications that solve real-world problems.</p>
 
 <h3 align="center">I am looking for a complex engineering problem to solve!!!</h1>
 
