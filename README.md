@@ -6,7 +6,7 @@
 
 <p align="center">Got a project or challenge? Let’s connect! I’ll bring the right solution to the table, and we’ll make it happen. 🚀</p>
 
-<p align="center">Feel free to check out my projects or drop me a message — I'm excited to collaborate with you! </p>
+<p align="center">Feel free to check out my projects or drop me a message. I'm excited to collaborate with you! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishyadav077&label=Profile%20views&color=0e75b6&style=flat" alt="manishyadav077" /> </p>
 
